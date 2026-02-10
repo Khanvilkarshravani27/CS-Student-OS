@@ -30,7 +30,7 @@ CS Student OS is your all-in-one command center to:
 ---
 
 ## 🛠 Tech Stack  
-React • Vite • Tailwind CSS • React Router • Recharts • Lucide React • LocalStorage  
+React • Vite • Tailwind CSS • React Router • Recharts • Lucide React
 
 ---
 
